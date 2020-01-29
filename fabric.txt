@@ -18,7 +18,7 @@ http://localhost:9089/irf-test-web/api/v1.0.0/holdings/PSD2/accounts/10995/trans
 			
 Kannan branch1 gggg
 			
-			
+			rk
 
 var navigationobj = new kony.mvc.Navigation("frmProductList");
 navigationobj.navigate(cat_name1);
